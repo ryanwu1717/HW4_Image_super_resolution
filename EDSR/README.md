@@ -41,12 +41,15 @@ Extra arguments (Nr of resblocks, filters, batch, lr etc.)
 
 ## Example
 (1) Original picture\
-(2) Input image\
-(3) Bicubic scaled (3x) image\
-(4) EDSR scaled (3x) image\
 ![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/original.png?raw=true "Original picture")
+
+(2) Input image\
 ![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/input.png?raw=true "Input image picture")
+
+(3) Bicubic scaled (3x) image\
 ![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/BicubicOutput.png?raw=true "Bicubic picture")
+
+(4) EDSR scaled (3x) image\
 ![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/EdsrOutput.png?raw=true "EDSR picture")
 
 ## Notes
