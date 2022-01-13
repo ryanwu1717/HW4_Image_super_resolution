@@ -1,12 +1,9 @@
 # HW4_Image_super_resolution
-
-
 code for  Super Resolution Challenge. <br>
 
-
 download the checkpoint for EDSR [EDSRorig_x3](https://drive.google.com/drive/u/2/folders/1bO4IDB241njwJPAnAQG6S7knGixDztaQ)
-download the checkpoint for SWINIR [10000_E](https://drive.google.com/drive/u/2/folders/1bO4IDB241njwJPAnAQG6S7knGixDztaQ)
 
+download the checkpoint for SWINIR [10000_E](https://drive.google.com/drive/u/2/folders/1bO4IDB241njwJPAnAQG6S7knGixDztaQ)
 
 ## Hardware
 ● Windows 10 <br>
