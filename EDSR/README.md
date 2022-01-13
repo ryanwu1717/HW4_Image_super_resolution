@@ -44,10 +44,10 @@ Extra arguments (Nr of resblocks, filters, batch, lr etc.)
 (2) Input image\
 (3) Bicubic scaled (3x) image\
 (4) EDSR scaled (3x) image\
-![Alt text](https://github.com/Saafke/EDSR_Tensorflow/tree/master/images/original.png?raw=true "Original picture")
-![Alt text](https://github.com/Saafke/EDSR_Tensorflow/tree/master/images/input.png?raw=true "Input image picture")
-![Alt text](https://github.com/Saafke/EDSR_Tensorflow/tree/master/images/BicubicOutput.png?raw=true "Bicubic picture")
-![Alt text](https://github.com/Saafke/EDSR_Tensorflow/tree/master/images/EdsrOutput.png?raw=true "EDSR picture")
+![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/original.png?raw=true "Original picture")
+![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/input.png?raw=true "Input image picture")
+![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/BicubicOutput.png?raw=true "Bicubic picture")
+![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/EdsrOutput.png?raw=true "EDSR picture")
 
 ## Notes
 The .pb files in these repository are quantized. This is done purely to shrink the filesizes down from ~150MB to ~40MB, because GitHub does not allow uploads above 100MB. The performance loss due to quantization is minimal. (To quantize during exporting use $ --quant <1,2 or 3> (2 is recommended.))
