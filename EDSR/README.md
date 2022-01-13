@@ -15,7 +15,7 @@ This repository was made during the 2019 GSoC program for the organization OpenC
 ## EDSR
 This is the EDSR model, which has a different model for each scale. Architecture shown below. Go to branch 'mdsr' for the MDSR model.
 
-![Alt text](https://github.com/Saafke/EDSR_Tensorflow/tree/master/images/EDSR.png?raw=true "EDSR architecture")
+![Alt text](https://github.com/Saafke/EDSR_Tensorflow/blob/master/images/EDSR.png?raw=true "EDSR architecture")
 
 # Running
 Download [Div2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/). If you want to use another dataset, you will have to calculate the mean of that dataset, and set the new mean in 'main.py'. Code for calculating the mean can be found in data_utils.py.
